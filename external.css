@@ -1,0 +1,111 @@
+.h1 {
+  width: 746px;
+  height: 20px;
+  font-family: "Segoe UI";
+  font-weight: bold;
+  font-style: extraBold;
+  color: #ffa62b;
+}
+.button {
+  width: 96px;
+  height: 41px;
+  border-radius: 12px;
+  border: brown;
+  gap: 1opx;
+  color: brown;
+  background-color: #e6dfdb;
+}
+.submit-button {
+  width: 60px;
+  border-radius: 8px;
+  height: 30px;
+  gap: 10px;
+  right: 16px;
+  bottom: 8px;
+  left: 16px;
+  background-color: #325454;
+  border: #325454;
+  color: white;
+}
+
+.Get-started {
+  width: 327px;
+  height: 56px;
+  border-radius: 16px;
+  top: 348px;
+  left: 20px;
+  gap: 10px;
+  background-color: #c67c4e;
+  border: #c67c4e;
+  color: white;
+}
+.Join-us {
+  width: 187px;
+  height: 54px;
+  top: 348px;
+  left: 583px;
+  border-radius: 20px;
+  background-color: rgb(107, 199, 230);
+  border: rgb(107, 199, 230);
+  color: white;
+}
+.rectangle {
+  width: 831px;
+  height: 83px;
+}
+.color {
+  background-color: #d7e5e8;
+  border: #d7e5e8;
+}
+.border {
+  border: #00a0c1;
+  background-color: #00a0c1;
+}
+.jonathan {
+  border: #ffa62b;
+  background-color: #ffa62b;
+}
+.Atsu {
+  border: #d9edff;
+  background-color: #d9edff;
+}
+.Esinu {
+  border: #0b353d;
+  background-color: #0b353d;
+}
+.Dziwornu {
+  border: #e7e7e7;
+  background-color: #e7e7e7;
+}
+.Ama {
+  width: 858px;
+  height: 263px;
+  border-top-right-radius: 151px;
+  border-bottom-left-radius: 151px;
+  background-color: #0b353d;
+  border: #0b353d;
+}
+.Kojo {
+  width: 246px;
+  height: 191px;
+  background-color: red;
+  border-top-left-radius: 100px;
+  border-bottom-left-radius: 100px;
+  border: red;
+}
+.fred {
+  width: 267px;
+  height: 267px;
+  background-color: #00b6ff;
+  border-radius: 1000px;
+  border: #00b6ff;
+}
+.kofi {
+  width: 225.44px;
+  height: 255.16px;
+  background-color: #24cb71;
+  border-end-end-radius: 500px;
+  border-bottom-left-radius: 500px;
+  border-top-left-radius: 500px;
+  border: #24cb71;
+}
